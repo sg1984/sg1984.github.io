@@ -1,4 +1,4 @@
-# My Personal Page
+# My Personal Website
 
 This is a page so I can show the ways to contact me, just that.
 
