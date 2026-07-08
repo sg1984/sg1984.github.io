@@ -9,4 +9,4 @@ gem 'rack', '~> 2.2.23'
 gem 'rspec'
 gem "jekyll"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
