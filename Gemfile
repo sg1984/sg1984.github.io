@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem 'nokogiri'
-gem 'rack', '~> 2.2.23'
+gem 'rack', '~> 2.2.25'
 gem 'rspec'
 gem "jekyll"
 
